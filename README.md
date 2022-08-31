@@ -13,12 +13,9 @@
  > *To add additional intents and their respective examples* <br/>
  > **Remove Button** <br/>
  > *To remove any intents and examples that have been added* <br/>
-
  > **Intent Name** <br/>
  > *Log in the name of the intent* <br/>
-
  > **Examples** <br/>
  > Log in The Examples of the Intents in a text format <br/>
-
  > **Submit Button** <br/>
  > Click the submit button to generate a nlu.yml file which is finally sent for processing done through the Rasa framework <br/>
