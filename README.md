@@ -19,3 +19,8 @@
  > Log in The Examples of the Intents in a text format <br/>
  > **Submit Button** <br/>
  > Click the submit button to generate a nlu.yml file which is finally sent for processing done through the Rasa framework <br/>
+
+# Model
+
+![1](https://user-images.githubusercontent.com/69317200/190916162-5c251225-9beb-490a-8de3-02656f499372.png)
+
